@@ -1,0 +1,11 @@
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\bin\Debug\net6.0\CalculatorDemo.deps.json
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\bin\Debug\net6.0\CalculatorDemo.dll
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\bin\Debug\net6.0\CalculatorDemo.pdb
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.AssemblyInfoInputs.cache
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.AssemblyInfo.cs
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.csproj.CoreCompileInputs.cache
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.dll
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\refint\CalculatorDemo.dll
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\CalculatorDemo.pdb
+D:\Code\My\ConsoleApp.ATDD.BDD.SpecFlow2023121501\src\CalculatorDemo\obj\Debug\net6.0\ref\CalculatorDemo.dll
